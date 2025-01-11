@@ -36,7 +36,7 @@ nav{
  .first-container h5{
     color: rgba(14, 14, 14, 0.5);
  }
- .first-container h1{
+ .first-container h2{
     font-size: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
@@ -67,7 +67,7 @@ nav{
     height: 120px;
     padding: 10px 85px;
 }
-.Third-section-title h1{
+.Third-section-title h2{
     color: rgb(14, 14, 14);
 font-family: Fira Sans;
 font-size: 35px;
@@ -81,17 +81,19 @@ line-height: 48px;
     font-weight: 400;
     line-height: 24px;
     
+    
+    
 }
 /* third-section */
 .third-section{
     width: 1200px;
     height: 350px;
-    margin:0px auto;
+    margin: 0px auto;
     display: flex;
     gap: 20px;
     align-items: center;
     justify-content: space-around;
-    margin-top: 30px;
+    margin-top: 60px;
 }
 .card-section-1{
     background-color: #d5e1f5;
